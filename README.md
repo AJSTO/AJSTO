@@ -1,6 +1,6 @@
 👋 Hello, I'm Adam!
 
-I am currently working in the oil and gas industry, and beyond my regular working hours, I am passionately engaged as a part-time Junior Data Engineer at [bigglo.pl](https://bigglo.pl). My journey in this field is driven by a relentless pursuit of growth and development.
+I am currently working in the oil and gas industry, and beyond my regular working hours, I am passionately engaged as a part-time Junior Data Engineer at [Bigglo](https://bigglo.pl). My journey in this field is driven by a relentless pursuit of growth and development.
 
 🚀 Seeking Opportunities
 
