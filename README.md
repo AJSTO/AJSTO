@@ -25,6 +25,11 @@ I am proficient in and actively use the following languages and tools:
 
 Currently, I am expanding my skill set to include Kafka, broadening my capabilities in the dynamic field of data engineering.
 
+📫 How to reach me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adam-stolarczyk-3611871b5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=adamstolarczyk1994@gmail.COM)
+
 <!--
 **AJSTO/AJSTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
